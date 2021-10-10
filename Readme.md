@@ -1,15 +1,17 @@
 Source : https://github.com/hazimhanif/svd_exp1
 
-Dataset Picke File : https://drive.google.com/drive/folders/1jQsoLC-09YY2sULZJaC0dLDDKDWT8iRi?usp=sharing
+Dataset: https://osf.io/d45bw/
 
-**Dependencies
+Picke Dump File : https://drive.google.com/drive/folders/1jQsoLC-09YY2sULZJaC0dLDDKDWT8iRi?usp=sharing
+
+## Dependencies
 - python 3.7
 - pandas 1.3.3
 - numpy 1.19.5
 - h5py 2.10.0
 - tensorflow 2.1.0
 
-**If tensorflow is to be used in gpu: 
+## If tensorflow is to be used in gpu: 
 - cuda 10.1
 - cudnn 10.0
 - cudnn 10.1
