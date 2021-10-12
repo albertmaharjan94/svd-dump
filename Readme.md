@@ -4,7 +4,7 @@ Dataset: https://osf.io/d45bw/
 
 Picke Dump File : https://drive.google.com/drive/folders/1jQsoLC-09YY2sULZJaC0dLDDKDWT8iRi?usp=sharing
 
-To resolve the issue of tensorflow error  "tuple has no attribute keys", the version of tensorflow has be downgrated to 2.1.0.
+To resolve the issue of tensorflow error  "tuple has no attribute keys", the version of tensorflow has be downgraded to 2.1.0.
 To complete the notebook the following dependencies has been used.
 
 ## Dependencies
